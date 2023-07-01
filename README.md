@@ -1,8 +1,20 @@
 # Telegram Bot sync with Google Calendar
 A telegram bot designed to help adding of events easily from the Telegram app into Google Calendar.
 
+## Note
+Token from Telegram not is not included and currently is an empty string.
+
+
+Packages to add in terminal:
+
+
+`$ pip install pyTelegramBotAPI`
+`$ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib`
+
+Setting up of Google Calendar can be found from GoogleDevelopers [here](https://developers.google.com/calendar/api/quickstart/python).
+
 ## Commands
-There are 2 main commands in the current version
+There are 2 main commands in the current version.
 
 ### `/start`
 
