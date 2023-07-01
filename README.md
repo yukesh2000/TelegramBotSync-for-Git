@@ -2,7 +2,7 @@
 A telegram bot designed to help adding of events easily from the Telegram app into Google Calendar.
 
 ## Note
-Token from Telegram not is not included and currently is an empty string.
+Token from Telegram bot is not included and currently is an empty string.
 
 
 Packages to add in terminal:
