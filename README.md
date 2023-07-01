@@ -9,6 +9,8 @@ Packages to add in terminal:
 
 
 `$ pip install pyTelegramBotAPI`
+
+
 `$ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib`
 
 Setting up of Google Calendar can be found from GoogleDevelopers [here](https://developers.google.com/calendar/api/quickstart/python).
